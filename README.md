@@ -38,6 +38,16 @@
                        Azure static app,
                        Azure Storage account, 
                        VS CODE.
+Future ready talent project is done by following team:
+
+Darshan R M
+
+Keshava H C
+
+Gurukiran P M
+
+Chandan D S
+                      
                        
 
                             
