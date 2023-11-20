@@ -12,6 +12,7 @@
                                   Efficient Order Fulfillment,
                                   Integration with External Services,
                                   Continuous Innovation.
+                                  
 **process:**     Step 01: creating the basic structure for our website using the code editor VSCODE.
                  Step 02: using css to give good appearence and java script for responsiveness.
                  Step 03: create a storage account and resource 
